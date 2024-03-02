@@ -1,0 +1,10 @@
+box-1 category btn1{
+    height: 2%;
+    width:auto;
+    margin: 0;
+    padding: 0;
+} 
+box-1 category button{
+    font-weight: 100;
+    font-size: large;
+}
